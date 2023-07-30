@@ -1,0 +1,15 @@
+{
+  "name": "Ibuprofen and famotidine",
+  "symbol": "0093-8107",
+  "description": "A test for our NFT example.",
+  "seller_fee_basis_points": 0,
+  "external_url": "",
+  "edition": "",
+  "background_color": "000000",
+  "image": "https://www.grxstatic.com/d4fuqqd5l3dbz/products/tms/Package_26633.JPG"
+  "attributes" : "[{trait_type: 'Generic Name:', value: 'Ibuprofen and famotidine'}," +
+          "{trait_type: 'Labeler', value: 'Teva Pharmaceuticals USA, Inc.'}," +
+          "{trait_type: 'Active Ingredients', value: 'FAMOTIDINE 26.6 mg/1, IBUPROFEN 800mg/1'}" +
+          "{trait_type: 'Packaging', value: '90 TABLET, FILM COATED in 1 BOTTLE (0093-8107-98)'}"+
+          "]"
+}
